@@ -42,5 +42,5 @@ This project is based on MERN stack. It is the replica of Instagram app with all
 2. Make sure you are inside root directory and run `npm install` and wait for few moments.
 3. Move inside the client directory using `cd client` and run `npm install` again and wait for few more movments.
 4. Now rename `example.env` to `.env` and make sure you add your `JWT_SECRET` and `MONGO_DB_URI` to it. (!Important)
-5. Now you need to separate cmd/terminals - (open one cmd/terminal in client folder && run `npm start` and it should popup browser with our APP) - (open second cmd/terminal in root folder && run `npm start` and it should say Database connected and running on port 5000)
+5. Now you need to separate cmd/terminals - (open one cmd/terminal in client folder && run `npm start` and it should popup browser with our APP on port 3000) - (open second cmd/terminal in root folder && run `npm start` and it should say Database connected and running on port 8000)
 6. If everything goes well, you will be running this clone on local environment.
